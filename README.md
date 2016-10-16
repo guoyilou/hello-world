@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi there!
+I am starting my Github account anew, so why not start from the very beginning?
